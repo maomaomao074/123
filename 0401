@@ -2,8 +2,7 @@
 <html>
 <head>
     <title>愚人節快樂！</title>
-    <script>
-        // 強制跳轉到 Google 搜尋 "我被騙了怎麼辦"
+    <script>//
         window.onload = function() {
             window.location.href = "https://www.google.com/search?q=我被騙了怎麼辦";
         };
