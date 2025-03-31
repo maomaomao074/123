@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>載入中...</title>
+    <script>
+        window.onload = function() {
+            window.location.href = "https://www.google.com/search?q=我被騙了怎麼辦";
+        };
+    </script>
+</head>
+<body>
+</body>
+</html>
