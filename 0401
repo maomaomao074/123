@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>載入中...</title>
+    <title>愚人節快樂！</title>
     <script>
+        // 強制跳轉到 Google 搜尋 "我被騙了怎麼辦"
         window.onload = function() {
             window.location.href = "https://www.google.com/search?q=我被騙了怎麼辦";
         };
     </script>
 </head>
 <body>
+    <h1>你上當了！愚人節快樂！</h1>
 </body>
 </html>
